@@ -12,3 +12,6 @@ The code was tested with Ubuntu20.04 with Anaconda environment:
 * opencv-python 4.5.1
 ## Training
 * bash save.sh
+## Video
+* 3D vision-guided system based on GAMNet
+https://www.bilibili.com/video/BV19r4y1U7oR/
